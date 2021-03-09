@@ -1,2 +1,2 @@
-# Banco_de_Dados-
+# Banco_de_Dados
 Exercícios BD
