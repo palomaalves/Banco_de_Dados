@@ -9,4 +9,5 @@ modelagem de um BD relacional.
 Objetivos:
 
 -Capacitar o aluno para desenvolver o projeto conceitual e o projeto de implementação de dados de uma aplicação de banco de dados.
+
 -Implementar um projeto construído com o uso de um sistema gerador de banco de dados e da linguagem de consulta SQL.
