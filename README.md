@@ -12,12 +12,14 @@ Implementar um projeto construído com o uso de um sistema gerador de banco de d
 Principais Comandos SQL:
 
 - DDL
+
 . CREATE DATABASE 
 . CREATE TABLE
 . ALTER TABLE
 . DROP TABLE
 
 - DML
+
 . INSERT INTO
 . UPDATE
 . DELETE
