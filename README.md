@@ -24,3 +24,7 @@ Principais Comandos SQL:
 . UPDATE
 . DELETE
 . TRUNCATE
+
+-DQL
+
+. SELECT
